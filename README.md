@@ -1,9 +1,4 @@
-Network + 7.1 Project — Formative Assessment: Topologie Lab
-You are tasked with building 2 typologies (Star & 3 tier) in Cisco Packet Tracer. The expectation is that every device that is used in the topology must function and have connectivity (devices are required to communicate). This means that all connections must be GREEN not RED: Screenshot of Star and 3 tiered topologies showing that all devices are communicating…
 
-Answer the reflection question: What are the drawbacks and advantages of each(Star & 3 tier)? Must be at least 250 words
-
-Comparing the Star and Three-Tier network topologies reveals distinct advantages and drawbacks that are critical considerations when designing and implementing networks.
 
  Star Topology:
 
