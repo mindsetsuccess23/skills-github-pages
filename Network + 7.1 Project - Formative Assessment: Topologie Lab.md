@@ -1,5 +1,7 @@
 <header>
 
+My 1st Blog
+
 Network + 7.1 Project — Formative Assessment: Topologie Lab
 You are tasked with building 2 typologies (Star & 3 tier) in Cisco Packet Tracer. The expectation is that every device that is used in the topology must function and have connectivity (devices are required to communicate). This means that all connections must be GREEN not RED: Screenshot of Star and 3 tiered topologies showing that all devices are communicating…
 
