@@ -28,7 +28,7 @@ In conclusion, while FTP may have its challenges, it remains a powerful tool for
 
 PART 2
 
-Title: Unraveling the Layers of TCP: Navigating the Backbone of Internet Communication
+Unraveling the Layers of TCP: Navigating the Backbone of Internet Communication
 
 In the intricate web of internet communication, one protocol stands out as the bedrock of reliable data transmission: TCP, or Transmission Control Protocol. From streaming videos to sending emails, TCP silently orchestrates the exchange of information across networks, ensuring packets arrive intact and in the correct order. In this blog, we'll embark on a journey through TCP, from understanding its objective to expressing the hardships encountered, and finally, delving into the process of writing documentation and reflecting on lessons learned.
 
