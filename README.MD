@@ -1,4 +1,4 @@
-BLOG FOR NETWORK + Network Fundamentals – Cabling *2 Parts*
+BLOG FOR NETWORK+_7.2 Network Fundamentals – Cabling *2 Parts*
 
 *PART 1*
 Navigating Networking Terrain: Connecting to a Router or Switch Using a Console Cable
